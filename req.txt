@@ -1,0 +1,7 @@
+username: Lakshit
+contactNumber: 1234567890
+creditCardNumber: 9087654321
+componentType: accessory
+componentName: Laptop
+quantityOfDefective: 1
+isPriorityRequest: true
