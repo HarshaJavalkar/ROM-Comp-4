@@ -117,4 +117,9 @@ public class ComponentProcessingController {
 		return new PaymentSuccessResp(message);
 
 	}
+	
+	@GetMapping("/testing")
+	public String testing() {
+		return new String("comp process success go ahead");
+	}
 }
